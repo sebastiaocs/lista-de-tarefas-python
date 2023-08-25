@@ -1,4 +1,5 @@
 import redis
+#A versão do python para esse scricp é a 3.10
 
 db = redis.Redis(host='localhost', decode_responses=True)
 
