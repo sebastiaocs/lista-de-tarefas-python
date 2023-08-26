@@ -1,4 +1,4 @@
-from listaDeTarefas import *
+from listaDeTarefas import * 
 
 lista = ListaDeTarefas()
 x = 10
